@@ -11,12 +11,26 @@ Console.WriteLine(me)
 ```
 <h1 align="left">👨‍💻 Hey Everyone 👋</h1>
 
+I’m a software enthusiast with experience in full-stack web development, systems programming, and data analysis, always looking for ways to turn complex problems into impactful solutions. I first got hooked on programming during the pandemic, when I realized how exciting it was to tackle challenging problems and bring ideas to life through code. Now, 5 years later, I'm still here, driven by curiosity and a passion for problem-solving, whether it’s optimizing algorithms, debugging systems code, or designing user-friendly applications.
+
 
 ### <h2 align="left">💥What I'm Currently Working On</h2> ###
-- [ ] AWS Setup with my ExpenseTracker Project
+- [ ] AWS ExpenseTracker Project Setup
 - [ ] AWS Certification
+- [ ] OpenGL Conway's Game of Life
+- [ ] C++ DataStructure Implementation Library
 ### <h2 align="left"> ➡ What I Plan To Work On</h2> ###
+- [ ] Full-Stack WebGL Room Builder/Sharer
+- [ ] LLM-based Todo List
+- [ ] Full-Stack Travel Gamifier
+- [ ] FlowState Unity Game
+- [ ] RAG System
 
+### <h2 align="left"> ➡ What I'm Currently Learning</h2> ###
+- [ ] AWS(ECS, S3, RDS, Lambda, Eventbridge)
+- [ ] Operating Systems
+- [ ] Graphics Programming
+      
 ### <h2 align="left">⚙ Tech Stack</h2> ###
 
 
