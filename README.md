@@ -19,6 +19,7 @@ I’m a software enthusiast with experience in full-stack web development, syste
 - [ ] AWS Certification
 - [ ] OpenGL Conway's Game of Life
 - [ ] C++ DataStructure Implementation Library
+- [ ] Particle Simulation Research
 ### <h2 align="left"> ➡ What I Plan To Work On</h2> ###
 - [ ] Full-Stack WebGL Room Builder/Sharer
 - [ ] LLM-based Todo List
