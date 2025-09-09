@@ -4,7 +4,7 @@
 Aglyst me = new Aglyst(
               roles: ["Lead Front-End Developer", "Research Assistant", "Student", "Full-Stack Developer", "Data Analyst"], 
               interests: ["full-stack web dev", "graphics", "game dev", "cloud"], 
-              hobbies: ["drumming", "gym", "music"]);
+              hobbies: ["drumming", "gym", "music", "videogames"]);
 
 Console.WriteLine(me)
 >
@@ -27,7 +27,7 @@ I’m a software enthusiast with experience in full-stack web development, syste
 - [ ] FlowState Unity Game
 - [ ] RAG System
 
-### <h2 align="left"> ➡ What I'm Currently Learning</h2> ###
+### <h2 align="left"> 💠 What I'm Currently Learning</h2> ###
 - [ ] AWS(ECS, S3, RDS, Lambda, Eventbridge)
 - [ ] Operating Systems
 - [ ] Graphics Programming
