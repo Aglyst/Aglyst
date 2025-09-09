@@ -3,7 +3,7 @@
 ```csharp
 Aglyst me = new Aglyst(
               roles: ["Lead Front-End Developer", "Research Assistant", "Student", "Full-Stack Developer", "Data Analyst"], 
-              interests: ["full-stack web dev", "graphics", "game dev", "cloud"], 
+              interests: ["full-stack web dev", "graphics", "game dev", "cloud", "AI"], 
               hobbies: ["drumming", "gym", "music", "videogames"]);
 
 Console.WriteLine(me)
