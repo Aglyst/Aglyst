@@ -15,11 +15,12 @@ I’m a software enthusiast with experience in full-stack web development, syste
 
 
 ### <h2 align="left">💥What I'm Currently Working On</h2> ###
-- [ ] AWS ExpenseTracker Project Setup
+- [ ] ExpenseTracker AWS Setup
 - [ ] AWS Certification
 - [ ] OpenGL Conway's Game of Life
 - [ ] C++ DataStructure Implementation Library
 - [ ] Particle Simulation Research
+- [ ] Fortran
 ### <h2 align="left"> ➡ What I Plan To Work On</h2> ###
 - [ ] Full-Stack WebGL Room Builder/Sharer
 - [ ] LLM-based Todo List
